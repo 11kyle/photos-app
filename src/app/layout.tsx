@@ -136,7 +136,7 @@ export default function RootLayout({
         <div className='flex max-w-7xl'>
           <SideMenu />
 
-          <div className='w-full px-4 pt-8'>{children}</div>
+          <div className='w-full px-4 py-8'>{children}</div>
         </div>
       </body>
     </html>
